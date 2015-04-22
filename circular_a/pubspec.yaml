@@ -1,0 +1,5 @@
+name: circular_a
+
+dependencies:
+  circular_b:
+    path: ../circular_b
